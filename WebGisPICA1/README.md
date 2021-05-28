@@ -1,4 +1,4 @@
-# leaflet-spreadsheet-covid
+# leaflet-spreadsheet-PICA
 
 Mini project dalam rangka membantu kabupaten/kota agar dapat menyajikan data kasus covid ke dalam peta web dengan basis data dari Google Spreadsheet.
 
